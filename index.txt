@@ -1,2 +1,4 @@
 merhaba
 remote masterdan gelen gucelleme 
+remote masterdan 2.saitr
+
